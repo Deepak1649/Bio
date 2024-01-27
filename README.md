@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shoktiman
+- 👋 Hi, I’m Deepak
 - 👀 I’m interested in ...games
-- 🌱 I’m currently learning ...coding
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...game development
 
 - 📫 How to reach me ...bk1649.h@gmail.com
